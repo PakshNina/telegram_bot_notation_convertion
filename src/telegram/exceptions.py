@@ -1,0 +1,2 @@
+class UnreadablePattern(Exception):
+    pass
